@@ -42,7 +42,9 @@ Aqui estão algumas das principais visualizações incluídas no dashboard:
 - **Performance de Campanhas**: Gráficos que mostram a eficácia das campanhas segmentadas por escolaridade e estado civil.
 - **Tendências de Compras por Faixa Salarial**: Visualizações que mostram como as faixas salariais afetam os padrões de compra.
 
-![Exemplo de Dashboard](C:\Users\ADM\Pictures\mkt1.png)
+## Visualizações
+![Dashboard de Análise](caminho_para_imagem.jpg)
+
 
 ## Como Utilizar
 1. Baixe o arquivo **.pbix** deste repositório.
